@@ -1,0 +1,9 @@
+-- made by XdcxX24 Multi Tool
+
+
+ilk önce setup.bat ı açın
+
+sonra cmd ile app.py yi açın
+
+
+not : aç kapa yapmak pc yi daha iyi yapar uygulama için
